@@ -5,3 +5,4 @@
 ##### The model uses Data Science librares like pandas , numpy , seaborn and MatPlotLib.
 ##### Machine Learning Algorithm Like Clustering ,Predictive Modeling and Descriptive Statistics.
 ##### Model Realtime Prediction is also done.
+###![Distribution for Agriculural Conditions](https://user-images.githubusercontent.com/77277281/176017448-a985e424-6ade-484a-8ce1-49dbbae50c65.png)
